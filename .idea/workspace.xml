@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Database.py" line="188" />
+    <bookmark url="file://$PROJECT_DIR$/Database.py" line="52" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b8f8bab-aa72-40cc-b9c4-d4050568798a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__main__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/socks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/retry.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/structures.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/retrying.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo-3.7.1.dist-info/INSTALLER" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo-3.7.1.dist-info/METADATA" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo-3.7.1.dist-info/RECORD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo-3.7.1.dist-info/WHEEL" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo-3.7.1.dist-info/top_level.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/_cmessage.cp36-win_amd64.pyd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/auth.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/bulk.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/change_stream.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/client_options.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/client_session.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/collation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/collection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/command_cursor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/common.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/compression_support.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/cursor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/cursor_manager.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/database.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/driver_info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/errors.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/helpers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/ismaster.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/max_staleness_selectors.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/message.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/mongo_client.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/mongo_replica_set_client.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/monitor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/monitoring.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/monotonic.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/network.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/operations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/periodic_executor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/pool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/read_concern.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/read_preferences.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/response.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/results.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/saslprep.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/server.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/server_description.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/server_selectors.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/server_type.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/son_manipulator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/ssl_context.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/ssl_match_hostname.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/ssl_support.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/thread_util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/topology.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/topology_description.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/uri_parser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymongo/write_concern.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.19.1.dist-info/DESCRIPTION.rst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.19.1.dist-info/INSTALLER" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.19.1.dist-info/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.19.1.dist-info/METADATA" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.19.1.dist-info/RECORD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.19.1.dist-info/WHEEL" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.19.1.dist-info/metadata.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.19.1.dist-info/top_level.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/adapters.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/auth.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/certs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/cookies.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/help.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/hooks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/packages.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/sessions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/status_codes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/structures.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/registreringstidende_api$RegistreringstidendeScraper.coverage" NAME="RegistreringstidendeScraper Coverage Results" MODIFIED="1538764230315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapers" />
+    <SUITE FILE_PATH="coverage/registreringstidende_api$temp.coverage" NAME="temp Coverage Results" MODIFIED="1538930202792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/registreringstidende_api$Database.coverage" NAME="Database Coverage Results" MODIFIED="1538938830194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RegistreringstidendeScraper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapers/RegistreringstidendeScraper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1111">
+              <caret line="58" column="48" lean-forward="true" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="213" column="0" lean-forward="false" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temp.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="220" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>match</find>
+      <find>print(&quot;P&quot;, pattern, string</find>
+      <find>Selskabet er omdannet til et</find>
+      <find>A/S</find>
+      <find>'capital': None</find>
+      <find>'capital': [0-9]*</find>
+      <find>Selskabet er omdannet til</find>
+      <find>Aktie</find>
+      <find>Aktiek</find>
+      <find>kapitalen</find>
+      <find>Aktiekapitalen</find>
+      <find>(Kapitalen)</find>
+      <find>(K)apitalen</find>
+      <find>Kapitalen udgooor herefte</find>
+      <find>Kapitalen udgooor herefte-</find>
+      <find>Kapitalen</find>
+      <find>euro</find>
+      <find>Selskabet er omdannet til</find>
+      <find>Kapital</find>
+      <find>Kapitalnedsæ</find>
+      <find>Kapitalforhøjelse</find>
+      <find>\/</find>
+      <find>Kapitalnedsættelse</find>
+      <find>extract</find>
+      <find>currency</find>
+      <find>Klasser</find>
+      <find>Klasser:</find>
+      <find>Klasse</find>
+      <find>print</find>
+      <find>cvr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scrapers/RegistreringstidendeScraper.py" />
+        <option value="$PROJECT_DIR$/temp.txt" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/Database.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="714" />
+    <option name="y" value="-8" />
+    <option name="width" value="1454" />
+    <option name="height" value="1445" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="registreringstidende-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registreringstidende-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="registreringstidende-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registreringstidende-api" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="registreringstidende-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registreringstidende-api" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapers" type="462c0819:PsiDirectoryNode" />
+              <item name="RegistreringstidendeScraper.py" type="8704e2dd:PyFileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Database">
+    <configuration name="Database" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="registreringstidende-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="RegistreringstidendeScraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="registreringstidende-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapers/RegistreringstidendeScraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="registreringstidende-api" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.RegistreringstidendeScraper" />
+      <item index="1" class="java.lang.String" itemvalue="Python.temp" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Database" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.Database" />
+        <item index="1" class="java.lang.String" itemvalue="Python.temp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RegistreringstidendeScraper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b8f8bab-aa72-40cc-b9c4-d4050568798a" name="Default" comment="" />
+      <created>1538746071653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538746071653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1456" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15898252" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15898252" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="226" column="29" lean-forward="false" selection-start-line="226" selection-start-column="24" selection-end-line="226" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapers/RegistreringstidendeScraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1111">
+          <caret line="58" column="48" lean-forward="true" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="220" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="213" column="0" lean-forward="false" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
